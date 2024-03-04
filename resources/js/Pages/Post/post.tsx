@@ -4,7 +4,7 @@ export default function compo()
 {
     return(
         <div>
-            <h1>Helloworld</h1>
+            <h1>Hello world</h1>
         </div>
     );
 }
