@@ -18,7 +18,7 @@ use Inertia\Inertia;
 
 
 Route::get('/Post', function (){
-    return Inertia::render('Post/compo');
+    return Inertia::render('Post/post');
 });
 
 
